@@ -4,7 +4,7 @@ To use:
 
 **MAKE SURE VALORANT IS CLOSED AND VANGUARD IS CURRENTLY DISABLED**
 
-Download this code by clicking on <code> and download as zip, you may need winRAR or something similiar to extract the zip file
+Download this code by clicking on '<code>' and download as zip, you may need winRAR or something similiar to extract the zip file
 
 Run loader.py
 
